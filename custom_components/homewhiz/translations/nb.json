@@ -56,8 +56,8 @@
           "temperature_20": "20 °C",
           "temperature_30": "30 °C",
           "temperature_40": "40 °C",
-          "60c": "60C",
-          "90c": "90C"
+          "60c": "60 °C",
+          "90c": "90 °C"
         }
       },
       "washer_spin": {
@@ -340,8 +340,8 @@
           "temperature_20": "20 °C",
           "temperature_30": "30 °C",
           "temperature_40": "40 °C",
-          "60c": "60C",
-          "90c": "90C"
+          "60c": "60 °C",
+          "90c": "90 °C"
         }
       },
       "washer_spin": {

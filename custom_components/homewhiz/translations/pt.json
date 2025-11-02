@@ -161,10 +161,10 @@
       "program": {
         "name": "Programa",
         "state": {
-          "program_auto": "Auto 40-65°C",
+          "program_auto": "Auto 40-65 °C",
           "program_mix_wash_plus": "AquaFlex",
-          "program_intensive_70": "Intensivo 70°C",
-          "program_eco_50": "Eco 50°C",
+          "program_intensive_70": "Intensivo 70 °C",
+          "program_eco_50": "Eco 50 °C",
           "program_glasscare": "Cuidados de Vidro",
           "program_new58min": "Quick&Clean",
           "program_30min": "Mini 30\".",
@@ -213,10 +213,10 @@
       "dishwasher_program": {
         "name": "Programa",
         "state": {
-          "program_auto": "Auto 40-65°C",
+          "program_auto": "Auto 40-65 °C",
           "program_aqua_flex": "PROGRAM_AQUA_FLEX",
-          "program_intensive_70": "Intensivo 70°C",
-          "program_eco_50": "Eco 50°C",
+          "program_intensive_70": "Intensivo 70 °C",
+          "program_eco_50": "Eco 50 °C",
           "program_delicate": "Delicado",
           "program_quick_and_shine": "PROGRAM_QUICK_AND_SHINE",
           "program_mini": "PROGRAM_MINI",
@@ -340,8 +340,8 @@
           "temperature_20": "20 °C",
           "temperature_30": "30 °C",
           "temperature_40": "40 °C",
-          "60c": "60C",
-          "90c": "90C"
+          "60c": "60 °C",
+          "90c": "90 °C"
         }
       },
       "washer_spin": {
@@ -539,10 +539,10 @@
       "program": {
         "name": "Programa",
         "state": {
-          "program_auto": "Auto 40-65°C",
+          "program_auto": "Auto 40-65 °C",
           "program_mix_wash_plus": "AquaFlex",
-          "program_intensive_70": "Intensivo 70°C",
-          "program_eco_50": "Eco 50°C",
+          "program_intensive_70": "Intensivo 70 °C",
+          "program_eco_50": "Eco 50 °C",
           "program_glasscare": "Cuidados de Vidro",
           "program_new58min": "Quick&Clean",
           "program_30min": "Mini 30\".",
@@ -621,10 +621,10 @@
       "dishwasher_program": {
         "name": "Programa",
         "state": {
-          "program_auto": "Auto 40-65°C",
+          "program_auto": "Auto 40-65 °C",
           "program_aqua_flex": "PROGRAM_AQUA_FLEX",
-          "program_intensive_70": "Intensivo 70°C",
-          "program_eco_50": "Eco 50°C",
+          "program_intensive_70": "Intensivo 70 °C",
+          "program_eco_50": "Eco 50 °C",
           "program_delicate": "Delicado",
           "program_quick_and_shine": "PROGRAM_QUICK_AND_SHINE",
           "program_mini": "PROGRAM_MINI",

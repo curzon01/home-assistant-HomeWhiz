@@ -161,7 +161,7 @@
       "program": {
         "name": "Program",
         "state": {
-          "program_auto": "Auto 40-65°C",
+          "program_auto": "Auto 40-65 °C",
           "program_mix_wash_plus": "Spălare completă",
           "program_intensive_70": "Intensiv 70 °C",
           "program_eco_50": "Eco 50 °C",
@@ -213,7 +213,7 @@
       "dishwasher_program": {
         "name": "Program",
         "state": {
-          "program_auto": "Auto 40-65°C",
+          "program_auto": "Auto 40-65 °C",
           "program_aqua_flex": "PROGRAM_AQUA_FLEX",
           "program_intensive_70": "Intensiv 70 °C",
           "program_eco_50": "Eco 50 °C",
@@ -539,7 +539,7 @@
       "program": {
         "name": "Program",
         "state": {
-          "program_auto": "Auto 40-65°C",
+          "program_auto": "Auto 40-65 °C",
           "program_mix_wash_plus": "Spălare completă",
           "program_intensive_70": "Intensiv 70 °C",
           "program_eco_50": "Eco 50 °C",
@@ -621,7 +621,7 @@
       "dishwasher_program": {
         "name": "Program",
         "state": {
-          "program_auto": "Auto 40-65°C",
+          "program_auto": "Auto 40-65 °C",
           "program_aqua_flex": "PROGRAM_AQUA_FLEX",
           "program_intensive_70": "Intensiv 70 °C",
           "program_eco_50": "Eco 50 °C",

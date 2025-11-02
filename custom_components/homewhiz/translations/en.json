@@ -102,8 +102,8 @@
           "temperature_20": "20 °C",
           "temperature_30": "30 °C",
           "temperature_40": "40 °C",
-          "60c": "60C",
-          "90c": "90C"
+          "60c": "60 °C",
+          "90c": "90 °C"
         }
       },
       "washer_spin": {
@@ -209,8 +209,8 @@
         "state": {
           "program_auto": "Auto",
           "program_mix_wash_plus": "MixWash+",
-          "program_intensive_70": "Intensive 70°C",
-          "program_eco_50": "Eco 50°C",
+          "program_intensive_70": "Intensive 70 °C",
+          "program_eco_50": "Eco 50 °C",
           "program_glasscare": "GlassCare",
           "program_new58min": "QuickWash 58'",
           "program_30min": "Mini 30'",
@@ -261,8 +261,8 @@
         "state": {
           "program_auto": "Auto",
           "program_aqua_flex": "AquaFlex",
-          "program_intensive_70": "Intensive 70°C",
-          "program_eco_50": "Eco 50°C",
+          "program_intensive_70": "Intensive 70 °C",
+          "program_eco_50": "Eco 50 °C",
           "program_delicate": "Delicate",
           "program_quick_and_shine": "Quick&Shine",
           "program_mini": "Mini",
@@ -386,8 +386,8 @@
           "temperature_20": "20 °C",
           "temperature_30": "30 °C",
           "temperature_40": "40 °C",
-          "60c": "60C",
-          "90c": "90C"
+          "60c": "60 °C",
+          "90c": "90 °C"
         }
       },
       "washer_spin": {
@@ -596,8 +596,8 @@
         "state": {
           "program_auto": "Auto",
           "program_mix_wash_plus": "MixWash+",
-          "program_intensive_70": "Intensive 70°C",
-          "program_eco_50": "Eco 50°C",
+          "program_intensive_70": "Intensive 70 °C",
+          "program_eco_50": "Eco 50 °C",
           "program_glasscare": "GlassCare",
           "program_new58min": "QuickWash 58'",
           "program_30min": "Mini 30'",
@@ -678,8 +678,8 @@
         "state": {
           "program_auto": "Auto",
           "program_aqua_flex": "AquaFlex",
-          "program_intensive_70": "Intensive 70°C",
-          "program_eco_50": "Eco 50°C",
+          "program_intensive_70": "Intensive 70 °C",
+          "program_eco_50": "Eco 50 °C",
           "program_delicate": "Delicate",
           "program_quick_and_shine": "Quick&Shine",
           "program_mini": "Mini",

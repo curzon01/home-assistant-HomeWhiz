@@ -209,8 +209,8 @@
         "state": {
           "program_auto": "Auto",
           "program_mix_wash_plus": "MixUmývanie+",
-          "program_intensive_70": "Intenzívne 70°C",
-          "program_eco_50": "Eco 50°C",
+          "program_intensive_70": "Intenzívne 70 °C",
+          "program_eco_50": "Eco 50 °C",
           "program_glasscare": "Starostlivosť o sklo",
           "program_new58min": "RýchleUmytie 58'",
           "program_30min": "Mini 30'",
@@ -261,8 +261,8 @@
         "state": {
           "program_auto": "Auto",
           "program_aqua_flex": "AquaFlex",
-          "program_intensive_70": "Intenzívne 70°C",
-          "program_eco_50": "Eco 50°C",
+          "program_intensive_70": "Intenzívne 70 °C",
+          "program_eco_50": "Eco 50 °C",
           "program_delicate": "Jemné",
           "program_quick_and_shine": "Rýchlo&Lesk",
           "program_mini": "Mini",
@@ -596,8 +596,8 @@
         "state": {
           "program_auto": "Auto",
           "program_mix_wash_plus": "MixUmytie+",
-          "program_intensive_70": "Intenzívne 70°C",
-          "program_eco_50": "Eco 50°C",
+          "program_intensive_70": "Intenzívne 70 °C",
+          "program_eco_50": "Eco 50 °C",
           "program_glasscare": "Starostlivosť o sklo",
           "program_new58min": "RýchleUmytie 58'",
           "program_30min": "Mini 30'",
@@ -678,8 +678,8 @@
         "state": {
           "program_auto": "Auto",
           "program_aqua_flex": "AquaFlex",
-          "program_intensive_70": "Intenzívne 70°C",
-          "program_eco_50": "Eco 50°C",
+          "program_intensive_70": "Intenzívne 70 °C",
+          "program_eco_50": "Eco 50 °C",
           "program_delicate": "Jemné",
           "program_quick_and_shine": "Rýchlo&Lesk",
           "program_mini": "Mini",

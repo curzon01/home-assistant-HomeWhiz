@@ -72,11 +72,11 @@
         "name": "Temperatura",
         "state": {
           "temperature_cold_wash": "Lavaggio a freddo",
-          "temperature_20": "20°C",
-          "temperature_30": "30°C",
-          "temperature_40": "40°C",
-          "60c": "60C",
-          "90c": "90C"
+          "temperature_20": "20 °C",
+          "temperature_30": "30 °C",
+          "temperature_40": "40 °C",
+          "60c": "60 °C",
+          "90c": "90 °C"
         }
       },
       "washer_spin": {
@@ -356,11 +356,11 @@
         "name": "Temperatura",
         "state": {
           "temperature_cold_wash": "Lavaggio a freddo",
-          "temperature_20": "20°C",
-          "temperature_30": "30°C",
-          "temperature_40": "40°C",
-          "60c": "60C",
-          "90c": "90C"
+          "temperature_20": "20 °C",
+          "temperature_30": "30 °C",
+          "temperature_40": "40 °C",
+          "60c": "60 °C",
+          "90c": "90 °C"
         }
       },
       "washer_spin": {

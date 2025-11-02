@@ -261,7 +261,7 @@
         "state": {
           "program_auto": "Авто",
           "program_aqua_flex": "AquaFlex",
-          "program_intensive_70": "Интенсив 70°C",
+          "program_intensive_70": "Интенсив 70 °C",
           "program_eco_50": "Eco 50 °C",
           "program_delicate": "Деликатная",
           "program_quick_and_shine": "Quick&Shine",
@@ -678,8 +678,8 @@
         "state": {
           "program_auto": "Авто",
           "program_aqua_flex": "AquaFlex",
-          "program_intensive_70": "Интенсив 70°C",
-          "program_eco_50": "Eco 50°C",
+          "program_intensive_70": "Интенсив 70 °C",
+          "program_eco_50": "Eco 50 °C",
           "program_delicate": "Деликатная",
           "program_quick_and_shine": "Quick&Shine",
           "program_mini": "Мини",
